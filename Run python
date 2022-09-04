@@ -1,2 +1,5 @@
 python3 [destination]
 #python3 or appropriate python version
+
+#to run one with arguments -:
+python3 [destination] var1,var2,...

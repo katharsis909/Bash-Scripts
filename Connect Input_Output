@@ -1,0 +1,5 @@
+$ echo "hello there"
+#gives output - hello there
+#but if we want to connect output to input of another bash file -:
+
+$ echo "hello there" | sed "s/hello/hi/"

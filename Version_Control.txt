@@ -1,0 +1,19 @@
+Basics
+
+git help <command>: get help for a git command
+git init: creates a new git repo, with data stored in the .git directory
+git status: tells you what’s going on
+git log: shows a flattened log of history
+git log --all --graph --decorate: visualizes history as a DAG
+
+Remotes
+
+git fetch: retrieve objects/references from a remote
+git pull: same as git fetch; git merge
+git clone: download repository from remote
+
+Undo
+
+git commit --amend: edit a commit’s contents/message
+git reset HEAD <file>: unstage a file
+git checkout -- <file>: discard changes

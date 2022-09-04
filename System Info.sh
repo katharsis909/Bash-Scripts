@@ -1,4 +1,4 @@
-#note that most of them not work on macOS
+#note that they not work on macOS
 
 #Brightness
 xrandr --output LVDS1 --brightness [value]
